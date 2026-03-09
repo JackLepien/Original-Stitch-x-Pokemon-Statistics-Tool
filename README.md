@@ -41,5 +41,3 @@ This is all to say that this company made outstanding, unique, customizable prod
     * https://www.serebii.net/pokemonshirts/
 * Original Stich Product Details
     * https://nintendosoup.com/product/pokemon-shirts-dress-shirt/
-* Claude.ai (Exact Prompt History)
-    * https://claude.ai/share/5dc5c05f-0031-4b8c-a63f-d2ba9c238373
